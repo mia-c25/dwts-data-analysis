@@ -1,0 +1,31 @@
+
+# macOS files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# VS Code local settings
+.vscode/
+
+# Temporary files
+*.log
+*.tmp
+
+
+# Original MCM dataset (redistribution not yet verified)
+data/raw/2026_MCM_Problem_C_Data.csv
+
