@@ -8,6 +8,22 @@ Using Python, statistical analysis, and data visualization, I investigated patte
 
 The goal of this project was to go beyond identifying winners and explore the relationships between scoring, experience, and competition survival.
 
+## Interactive Tableau Dashboard
+
+To complement the Python analysis, I created an interactive Tableau dashboard exploring the factors that influence success on *Dancing with the Stars* across 34 seasons.
+
+The dashboard includes four visualizations:
+
+- **Judges' Scores vs. Placement:** Examines the relationship between judges' scores and final rankings.
+- **Celebrity Background:** Compares top-three finish rates across celebrity industry groups.
+- **Professional Dancer Experience:** Explores the relationship between professional dancers' appearances and win rates.
+- **Competition Survival:** Shows when contestants are most commonly eliminated.
+
+The dashboard also includes interactive filters and key findings to help viewers explore the results.
+
+### [View the Interactive Tableau Dashboard](https://public.tableau.com/app/profile/mia.craghead/viz/Dancing-with-the-Stars-What-Makes-a-Winner/DancingwiththeStarsWhatMakesaWinner)
+
+
 ## Research Questions
 
 1. How strongly do judges' scores correlate with contestants' final placements?
